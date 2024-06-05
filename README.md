@@ -2,7 +2,7 @@
 
 Alunos:
 
-    João Gabriel;
-    Vinícius Silas;
-    Matheus Siqueira;
-    Saulo Pinto.
+    João Gabriel
+    Vinícius Silas
+    Matheus Siqueira
+    Saulo Pinto
